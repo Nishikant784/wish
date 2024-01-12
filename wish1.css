@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #message {
+    margin-top: 100px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    margin-top: 20px;
+  }
+  
+  #proceedBtn {
+    padding: 8px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #fff;
+    color: blue;
+    border: none;
+    border-radius: 5px;
+  }
+  
